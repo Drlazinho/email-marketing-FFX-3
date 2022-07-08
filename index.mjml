@@ -12,7 +12,7 @@
     <!-- Company Header -->
     <mj-section background-color="#f0f0f0">
       <mj-column padding="0">
-        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%204.png?raw=true" alt="Logo da FXF"></mj-image>
+        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/logo.png?raw=true" alt="Logo da FXF"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -27,7 +27,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image width="214px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/Group%204.png?raw=true" alt="image1"></mj-image>
+        <mj-image width="214px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/banner.png?raw=true" alt="image1"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -56,7 +56,7 @@
 
     <mj-section padding="0px">
       <mj-column padding="20px 0px">
-        <mj-image width="112px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/mastercard-logo%201.png?raw=true" alt="image2" padding="0px" />
+        <mj-image width="112px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade1.png?raw=true" alt="image2" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
             Bandeira Mastecard<br />
@@ -65,7 +65,7 @@
         </mj-text>
       </mj-column>
       <mj-column  padding="20px 0px" background-color="#0082BD">
-        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shoppaymentorderbuy-15_icon-icons%201.png?raw=true" alt="image4" padding="0px" />
+        <mj-image width="75px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade2.png?raw=true" alt="image4" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
             Abertura de conta <br />100% online e sem burocracia
@@ -73,7 +73,7 @@
         </mj-text>
       </mj-column>
       <mj-column padding="20px 0px">
-        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-lock-4341303_120563%201.png?raw=true" alt="image2" padding="0px" />
+        <mj-image width="75px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade3.png?raw=true" alt="image2" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
             Segurança e sem<br /> risco de perder dinheiro<br /><br />
@@ -85,7 +85,7 @@
 
     <mj-section padding="0px">
       <mj-column  padding="20px 0px" background-color="#0082BD">
-        <mj-image width="81.82px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shopping_world_online_ecommerce_icon_192440%201.png?raw=true" alt="image5" padding="0px" />
+        <mj-image width="81.82px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/img.png?raw=true" alt="image5" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
             Cartão online para <br />compras em sites do exterior
@@ -93,7 +93,7 @@
         </mj-text>
       </mj-column>
       <mj-column padding="20px 0px">
-        <mj-image width="91px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/1486564175-finance-currency-exchange_81498%201.png?raw=true" alt="image6" padding="0px" />
+        <mj-image width="91px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade5.png?raw=true" alt="image6" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
             Conversão Instantanea<br />
@@ -102,7 +102,7 @@
         </mj-text>
       </mj-column>
       <mj-column  padding="20px 0px" background-color="#0082BD">
-        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-settings-4341324_120534%201.png?raw=true" alt="image7" padding="0px" />
+        <mj-image width="75px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade6.png?raw=true" alt="image7" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
             Sem cobrança <br />por inatividade ou <br />manuteção da conta
@@ -112,7 +112,7 @@
     </mj-section>
     <mj-section padding="0px">
       <mj-column  padding="20px 0px">
-        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/tax_payment_money_dollar_bill_icon_143260%201.png?raw=true" alt="image8" padding="0px" />
+        <mj-image width="75px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade7.png?raw=true" alt="image8" padding="0px" />
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
             Sem surpresas <br />adicionais!<br />
@@ -121,7 +121,7 @@
         </mj-text>
       </mj-column>
       <mj-column  padding="20px 0px" background-color="#0082BD">
-        <mj-image width="83px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/image%207.png?raw=true" alt="image9" padding="0px" />
+        <mj-image width="83px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade8.png?raw=true" alt="image9" padding="0px" />
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
             Saque dinheiro<br /> em qualquer moeda.<br />
@@ -130,7 +130,7 @@
         </mj-text>
       </mj-column>
       <mj-column  padding="20px 0px">
-        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/1491313934-more_83000%201.png?raw=true" alt="image10" padding="0px" />
+        <mj-image width="75px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/imggrade9.png?raw=true" alt="image10" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
             E tem mais!<br /><br /><br />
@@ -140,7 +140,7 @@
     </mj-section>
     <!-- CHAMADA -->
     <mj-section background-color="#0082BD">
-      <mj-column width="600px">
+      <mj-column>
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
             Quer saber como oferecer isso aos seus clientes?<br />
@@ -157,7 +157,7 @@
 
     <!-- Social icons -->
     <mj-section background-color="#f0f0f0" padding-bottom="20px">
-      <mj-column width="600px">
+      <mj-column>
       <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element href="https://bit.ly/3bOOTZe" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" />
           <mj-social-element href="https://bit.ly/3AwWSVd" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" />

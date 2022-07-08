@@ -37,7 +37,7 @@
     <!-- 2 columns section -->
     <mj-section background-color="#0082BD">
       <mj-column width="300px">
-        <mj-image padding="0px" width="90px" src="https://raw.githubusercontent.com/Drlazinho/projets-email-html/master/fxf-banco-internacional/email1/images/image%205.png" alt="Selo da ABRACAM"></mj-image>
+        <mj-image padding="0px" width="90px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner1.png?raw=true" alt="Selo da ABRACAM"></mj-image>
       </mj-column>
       <mj-column width="300px">
         <mj-text padding="0px 20px" align="left">
@@ -50,13 +50,13 @@
 
     <mj-section>
       <mj-column width="200px" padding="0px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2016.png?raw=true" alt="8 anos" padding="0px"/>
+        <mj-image width="200px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner2esquerda.png?raw=true" alt="8 anos" padding="0px"/>
       </mj-column>      
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%202.png?raw=true" alt="700 milhões de reais" padding="0px"/>
+        <mj-image width="200px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner2meio.png?raw=true" alt="700 milhões de reais" padding="0px"/>
       </mj-column>      
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2015.png?raw=true" alt="500 operações concluídas" padding="0px"/>
+        <mj-image width="200px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner2direita.png?raw=true" alt="500 operações concluídas" padding="0px"/>
       </mj-column>      
     </mj-section>
 
@@ -73,7 +73,7 @@ internacionais.          </p>
     <!-- 3 columns section -->
     <mj-section background-color="#ffffff" padding="0px">
       <mj-column width="200px"  padding="20px 0px 73px 0px">
-        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/cambio-monetario%201.png?raw=true" alt="imagem 1"></mj-image>
+        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner3esquerda.png?raw=true" alt="imagem 1"></mj-image>
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold;">CÂMBIO PRONTO</p>
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: normal">
@@ -82,7 +82,7 @@ internacionais.          </p>
         </mj-text>
       </mj-column>
       <mj-column width="200px" mj-class="background-color-secondary" css-class="padding-mobile" padding="20px 0px 73px 0px">
-        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%208.png?raw=true" alt="imagem 2"></mj-image>
+        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner3meio.png?raw=true" alt="imagem 2"></mj-image>
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">HEDGE CAMBIAL
           </p>
@@ -92,7 +92,7 @@ internacionais.          </p>
         </mj-text>
       </mj-column>
       <mj-column width="200px" padding="20px 0px 0px 0px" css-class="padding-mobile">
-        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%207.png?raw=true" alt="imagem 3"></mj-image>
+        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner3direita.png?raw=true" alt="imagem 3"></mj-image>
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">CONTA INTERNACIONAL</p>
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: normal;">

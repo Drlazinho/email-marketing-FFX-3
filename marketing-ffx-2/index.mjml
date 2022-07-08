@@ -20,14 +20,14 @@
     <!-- Company Header -->
     <mj-section background-color="#f0f0f0">
       <mj-column padding="0">
-        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%204.png?raw=true" alt="Logo da FXF"></mj-image>
+        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/logo.png?raw=true" alt="Logo da FXF"></mj-image>
       </mj-column>
     </mj-section>
 
     <!-- Image Header -->
     <mj-section background-color="#ffffff">
       <mj-column width="300px" padding="0">
-        <mj-image padding="0px" width="300px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2012.png?raw=true" alt="imagem representativa"></mj-image>
+        <mj-image padding="0px" width="300px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/banner1.png?raw=true" alt="imagem representativa"></mj-image>
       </mj-column>
       <mj-column width="300px">
         <mj-text padding="0px 20px 0px 20px" align="left">
@@ -49,7 +49,7 @@
 
     <mj-section background-color="#0082BD">
       <mj-column width="300px">
-        <mj-image width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/currencyexchangemoneyratedeskbank_109816%201.png?raw=true" alt="image1"></mj-image>
+        <mj-image width="100px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/banner2.png?raw=true" alt="image1"></mj-image>
       </mj-column>
       <mj-column width="300px">
         <mj-text padding="0px 20px" align="left">
@@ -69,20 +69,20 @@
         </mj-text>
       </mj-column>
       <mj-column width="300px">
-        <mj-image width="183px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2013.png?raw=true" alt="image2"></mj-image>
+        <mj-image width="183px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/banner3.png?raw=true" alt="image2"></mj-image>
       </mj-column>
     </mj-section>
     
     <!-- COLUMN 3 -->
     <mj-section background-color="#0082BD" padding="0px">
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2018.png?raw=true" alt="produto com custo 2x menor" padding="0px" />
+        <mj-image width="200px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/banner4esquerda.png?raw=true" alt="produto com custo 2x menor" padding="0px" />
       </mj-column>
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2019.png?raw=true" alt="imagem globo" padding="0px" />
+        <mj-image width="200px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/banner4meioback.png?raw=true" alt="imagem globo" padding="0px" />
       </mj-column>
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2017.png?raw=true" alt="imposto 6x menor" padding="0px" />
+        <mj-image width="200px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-2/banner4direita.png?raw=true" alt="imposto 6x menor" padding="0px" />
       </mj-column>
     </mj-section>
 
@@ -114,28 +114,18 @@
 
     <!-- FOOTER SOCIAL -->
     <!-- Social icons -->
-    <mj-section background-color="#f0f0f0" padding-bottom="0px">
-      <mj-group>
-        <mj-column padding="0px">
-          <mj-image width="33px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" alt="Whatsapp" href="https://bit.ly/3bOOTZe" />
-        </mj-column>
-        <mj-column  padding="0px">
-          <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd" />
-        </mj-column>
-        <mj-column  padding="0px">
-          <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/image%2015.png?raw=true" alt="Linkedin" href="https://bit.ly/3acLymE" />
-        </mj-column>
-        <mj-column  padding="0px">
-          <mj-image width="60px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/ffx-transformed%2010.png?raw=true" alt="web" href="https://bit.ly/3NtoZaC" />
-        </mj-column>
-      </mj-group>
+       <mj-section background-color="#f0f0f0" padding-bottom="20px">
+      <mj-column>
+      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/icon-zap.png?raw=true" />
+          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/icon-insta.png?raw=true" />
+          <mj-social-element src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/icon-linkedin.png?raw=true" href="https://bit.ly/3acLymE"/>
+          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/icon-web.png?raw=true" />
+        </mj-social>
+      <mj-text align="center" padding="0px">
+        <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+      </mj-text>
     </mj-section>
-    <mj-section  background-color="#f0f0f0" padding="0px 0px 20px 0px">
-      <mj-column width="600px" padding="0px">
-        <mj-text align="center" padding="0px 20px">
-          <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+
   </mj-body>
 </mjml>

@@ -12,7 +12,7 @@
     <!-- Company Header -->
     <mj-section background-color="#f0f0f0">
       <mj-column padding="0">
-        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%204.png?raw=true" alt="Logo da FXF"></mj-image>
+        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/logo.png?raw=true" alt="Logo da FXF"></mj-image>
       </mj-column>
     </mj-section>
 

@@ -32,13 +32,13 @@
         </mj-text>
       </mj-column>
       <mj-column width="280px">
-        <mj-image width="185px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email4/images/image%2011.png?raw=true" alt="image1"></mj-image>
+        <mj-image width="185px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-4/banner2.png?raw=true" alt="image2"></mj-image>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#F47920">
       <mj-column width="200px">
-        <mj-image width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email4/images/3592854-add-user-business-man-employee-general-human-member-office_107767%201.png?raw=true" alt="image1"></mj-image>
+        <mj-image width="100px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-4/banner1.png?raw=true" alt="image1"></mj-image>
       </mj-column>
       <mj-column width="400px">
         <mj-text padding="0px 20px" align="left">

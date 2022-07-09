@@ -72,12 +72,12 @@ internacionais.          </p>
 
     <!-- 3 columns section -->
     <mj-section background-color="#ffffff" padding="0px">
-      <mj-column width="200px"  padding="20px 0px 73px 0px">
+      <mj-column width="200px"  padding="20px 0px 40px 0px">
         <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-1/banner3esquerda.png?raw=true" alt="imagem 1"></mj-image>
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold;">CÂMBIO PRONTO</p>
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: normal">
-            Nossa área de câmbio conta com uma equipe qualificada e certificada pela ABRACAM.
+              Pagamentos e recebimentos de todos os produtos, bens e serviços, nas principais moedas
           </p>
         </mj-text>
       </mj-column>

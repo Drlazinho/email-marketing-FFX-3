@@ -5,7 +5,8 @@
       <mj-class name="background-color-secondary" background-color="#007F62" />
       <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
       <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
-      <mj-title> Temos um presente pra você.</mj-title>
+      <mj-title>Você lembra que te contamos sobre nós e o que fazemos ?
+</mj-title>
     </mj-attributes>
   </mj-head>
   <mj-body>

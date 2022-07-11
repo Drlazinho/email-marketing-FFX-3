@@ -15,10 +15,20 @@
         <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/logo.png?raw=true" alt="Logo da FXF"></mj-image>
       </mj-column>
     </mj-section>
+    
+    <mj-section>
+      <mj-column width="600px">
+        <mj-text align="center">
+          <p style="font-family: 'Roboto'; color:#0082BD; line-height: 1.2; font-size: 19px; font-weight: bold">
+Você lembra que te contamos sobre nós e o que fazemos ?
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <!-- 2 columns section Header -->
     <mj-section background-color="#ffffff">
-      <mj-column width="320px">
+      <mj-column>
         <mj-text padding="0px 20px" align="left">
           <p style="font-family: 'Roboto'; color:#0082BD; line-height: 1.2; font-size: 19px; font-weight: bold">
             É importante que seu cliente <br />
@@ -31,8 +41,8 @@
           </p>
         </mj-text>
       </mj-column>
-      <mj-column width="280px">
-        <mj-image width="185px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-4/banner2.png?raw=true" alt="image2"></mj-image>
+      <mj-column>
+        <mj-image width="150px" src="https://github.com/Drlazinho/email-marketing-FFX-3/blob/master/marketing-ffx-5/Group%2021.png?raw=true" alt="image2"></mj-image>
       </mj-column>
     </mj-section>
 

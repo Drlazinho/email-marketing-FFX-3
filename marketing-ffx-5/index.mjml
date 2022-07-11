@@ -61,11 +61,13 @@
 
     <mj-section padding="0px">
       <mj-column width="600px" padding="0px 20px">
-        <mj-text padding="0px 20px" align="center">
-          <p style="font-family: 'Roboto'; color:#000000; line-height: 2; font-size: 16px; font-weight: bold">
+        <mj-text padding="0px 0px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
             Acreditamos que a customização é o futuro dos serviços financeiros.
             <br />
+            <br />
             Se você precisar, estamos aqui para te ajudar!
+            <br />
             <br />
             Até a próxima
           </p>

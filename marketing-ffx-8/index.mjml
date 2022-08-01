@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+      <mj-title>Na FFX, sua empresa pode ter o código IBAN próprio, sabia?
+      </mj-title>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section mj-class="background-color-principal">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logohead.png" alt="Logo da FXF"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column width="600px">
+        <mj-text align="center">
+          <p style="font-family: 'SourceSans'; color:#0082BD; line-height: 1.2; font-size: 25px; font-weight: bold">
+            Você sabe o que é o número de IBAN?
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section Header -->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column width="340px">
+        <mj-text padding="0px 20px 0px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.2; font-size: 16px; font-weight: regular">
+            Para transferir dinheiro para alguém aqui no Brasil, precisamos de alguns dados, certo?
+            CPF ou CNPJ, número da conta corrente, chave PIX ou qualquer outra informação
+            necessária para que o dinheiro seja enviado corretamente.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0px 20px 0px" width="260px">
+        <mj-image padding="0px" width="180px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-8/img1.png" alt="image1"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="background-color-secondary" padding-bottom="0px">
+      <mj-column padding="10px 0px 0px 0px" width="260px">
+        <mj-image padding="0px" width="120px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-8/img2.png" alt="image2"></mj-image>
+      </mj-column>
+      <mj-column width="340px">
+        <mj-text padding="0px 20px 20px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#ffff; line-height: 1.2; font-size: 16px; font-weight: regular">
+            Nas transferências internacionais também há necessidade de fornecer dados para que a
+liquidação ocorra corretamente e para facilitar a identificação do beneficiário, existe o código
+IBAN.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column width="600px">
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 16px; font-weight: 500;">
+   O IBAN é o número de identificação do cliente no sistema interbancário internacional e foi
+criado com o objetivo de reduzir os erros na hora de fazer uma transferência. Isso facilita
+muito o recebimento e envio de quantias em moedas estrangeiras.
+          </p>
+        </mj-text>
+        <mj-text padding="40px 10px 0px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 21px; font-weight: bold;">
+As corretoras de câmbio não fornecem esta identificação, e por isso, muitas operações não
+são liquidadas no prazo em que o cliente contratou.
+          </p>
+        </mj-text>
+                <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+      
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column>
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 18px;">
+            A FFX realiza a abertura deste código para que <b>suas operações fiquem mais fáceis</b> e <b>para
+que você receba o seu dinheiro no prazo exato</b> em que escolher
+Quer saber como?
+          </p>
+        </mj-text>
+        <mj-button mj-class="background-color-secondary" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+          CLIQUE AQUI
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Social icons -->
+    <mj-section mj-class="background-color-principal" padding-bottom="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/whatsapp.png" />
+          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/instagram.png" />
+          <mj-social-element src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/linkedin.png" href="https://bit.ly/3acLymE" />
+          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logofooter.png" />
+        </mj-social>
+        <mj-text align="center" padding="0px 20px">
+          <p style="color:#ffffff; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,10 +1,110 @@
 <mjml>
   <mj-head>
-    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+      <mj-title>Você já ouviu falar no conceito de FX Office? Não?</mj-title>
+    </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section>
-    
+    <!-- Company Header -->
+    <mj-section mj-class="background-color-principal">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logohead.png" alt="Logo da FXF"></mj-image>
+      </mj-column>
     </mj-section>
+
+    <!-- 2 columns section Header -->
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-column width="340px">
+        <mj-text padding="20px 0px 0px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#0082BD; line-height: 1.5; font-size: 25px; font-weight: 500">
+            Você já ouviu falar no conceito de FX Office? Não?<br />
+Vou te contar!
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="260px">
+        <mj-image width="214px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/img1.png" alt="image1"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 20px; font-weight: 500">
+            Há cerca de 8 anos, tivemos a ideia de facilitar o dia a dia de empresas e pessoas que
+precisavam de soluções personalizadas e processos ágeis para seus pagamentos
+internacionais
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="background-color-secondary">
+      <mj-column width="600px">
+        <mj-text padding="0px 40px" align="center">
+          <p style="font-family: 'Roboto'; color: #ffffff; line-height: 1.2; font-size: 16px; font-weight: 500">
+           Então criamos o conceito de FX Office: reunir serviço de câmbio e assessoria financeira em
+um só lugar, com atendimento personalizado.<br/>
+A FFX é a primeira FX Office do Brasil
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section >
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 16px; font-weight: 500">
+Nossa área de câmbio foi desenvolvida para funcionar de verdade!
+Em 2021, chegamos na casa dos BRL 700 milhões transacionados e mais de 5.100
+transações de clientes concluídas
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column width="300px" padding="0px">
+        <mj-image width="200px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/img2.png" alt="8 anos" padding="0px"/>
+      </mj-column>      
+      <mj-column width="300px">
+        <mj-image width="200px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/img3.png" alt="700 milhões de reais" padding="0px"/>
+      </mj-column>          
+    </mj-section>
+
+    <!-- CHAMADA -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 16px; font-weight: bold">
+            Quer nos conhecer mais um pouquinho?
+<br />
+          Dá uma olhada no nosso site. Você vai gostar ;)
+
+          </p>
+        </mj-text>
+        <mj-button mj-class="background-color-secondary" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+          FFX OFFICE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Icons -->
+
+    <!-- Social icons -->
+    <mj-section mj-class="background-color-principal" padding-bottom="20px">
+      <mj-column>
+      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/whatsapp.png" />
+          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/instagram.png" />
+          <mj-social-element src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/linkedin.png" href="https://bit.ly/3acLymE"/>
+          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logofooter.png" />
+        </mj-social>
+      <mj-text align="center" padding="0px 20px">
+        <p style="color:#ffffff; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+      </mj-text>
+    </mj-section>
+
   </mj-body>
 </mjml>

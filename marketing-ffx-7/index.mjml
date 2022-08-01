@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+      <mj-title>Seus pagamentos internacionais podem ser descomplicados, sabia?
+      </mj-title>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section mj-class="background-color-principal">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logohead.png" alt="Logo da FXF"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column width="600px">
+        <mj-text align="center">
+          <p style="font-family: 'SourceSans'; color:#0082BD; line-height: 1.2; font-size: 25px; font-weight: bold">
+            Operar câmbio não é para dar dor de cabeça.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section Header -->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column width="340px">
+        <mj-text padding="0px 20px 20px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.2; font-size: 16px; font-weight: regular">
+            Com certeza sua empresa já teve problemas com as operadoras de câmbio. Liquidação
+            atrasada, impostos altos, demora para análise documental.
+            Sabemos que isso acontece e sabemos como é desgastante.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0px 20px 0px" width="260px">
+        <mj-image padding="0px" width="120px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-7/img1.png" alt="image2"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="background-color-secondary">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px;">
+            Pensando nisso tudo, a FFX foi pensada para garantir um serviço de qualidade, com taxas
+            competitivas.
+          </p>
+        </mj-text>
+        <mj-image padding="0px" width="100px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-7/img2.png" alt="banner2"></mj-image>
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px;">
+            Nós temos comprometimento com a liquidação das operações, ou seja: quantia liquidada no
+            prazo contratado.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0px">
+      <mj-column width="600px">
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'SourceSans'; line-height: 1.5; font-size: 20px; font-weight: bold;">
+            Posso te contar um segredo?
+          </p>
+        </mj-text>
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.5; font-size: 20px; font-weight: 500;">
+            A FFX tem o cadastro mais rápido do mercado, além de contar com uma equipe só para
+            análise documental.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'SourceSans'; line-height: 1.5; font-size: 20px; font-weight: bold;">
+            E sabe do que mais?
+          </p>
+        </mj-text>
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.5; font-size: 20px; font-weight: 500;">
+            Nós analisamos cada transação corretamente, evitando que a sua empresa pague mais
+            imposto do que deveria em um pagamento ou recebimento internacional
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column>
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; line-height: 1.2; font-size: 16px; font-weight: bold">
+            Faça um cadastro simples e sem compromisso. Se gostar, venha operar conosco.
+            Garantimos que você não vai achar outra operadora igual com um atendimento tão próximo
+            de você.
+          </p>
+        </mj-text>
+        <mj-button mj-class="background-color-secondary" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+          CADASTRO SIMPLES
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Social icons -->
+    <mj-section mj-class="background-color-principal" padding-bottom="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/whatsapp.png" />
+          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/instagram.png" />
+          <mj-social-element src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/linkedin.png" href="https://bit.ly/3acLymE" />
+          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logofooter.png" />
+        </mj-social>
+        <mj-text align="center" padding="0px 20px">
+          <p style="color:#ffffff; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
+    </mj-section>
+  </mj-body>
+</mjml>

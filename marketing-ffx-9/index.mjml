@@ -1,0 +1,71 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+      <mj-title>Sabemos que os impostos são de extrema importância, mas você sabia que a sua empresa
+        pode se isentar de alguns deles?
+      </mj-title>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section mj-class="background-color-principal">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="120px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logohead.png" alt="Logo da FXF"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column width="600px">
+        <mj-text align="center">
+          <p style="font-family: 'SourceSans'; color:#0082BD; line-height: 1.2; font-size: 20px; font-weight: bold">
+            Sabemos que os impostos são de extrema importância, mas você sabia que a sua empresa
+            pode se isentar de alguns deles?
+          </p>
+        </mj-text>
+        <mj-image padding="0px" width="160px" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-9/img1.png" alt="image2"></mj-image>
+        <mj-text padding="0px 20px 20px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.2; font-size: 16px; font-weight: bold">
+            Alguns de nossos clientes exportam serviços para o exterior e muitos deles não sabiam
+            disso.
+          </p>
+        </mj-text>
+        <mj-text align="center">
+          <p style="font-family: 'SourceSans'; color:#0082BD; line-height: 1.2; font-size: 20px; font-weight: bold">
+            Quer saber como eles descobriram?
+          </p>
+        </mj-text>
+        <mj-text padding="0px 20px 0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.2; font-size: 16px; font-weight: bold">
+            No link abaixo, você vai encontrar um formulário para se inscrever e receber o conteúdo que
+            disponibilizamos mensalmente apenas para as empresas que atendemos.
+            Ou seja, você vai receber um conteúdo exclusivo, escrito por dois nomes importantes do
+            mercado financeiro.
+            <br /><br />
+            Vai ficar de fora?
+          </p>
+        </mj-text>
+        <mj-button padding-bottom="20px" mj-class="background-color-secondary" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+          QUERO RECEBER O CONTEÚDO
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Social icons -->
+    <mj-section mj-class="background-color-principal" padding-bottom="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/whatsapp.png" />
+          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/instagram.png" />
+          <mj-social-element src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/linkedin.png" href="https://bit.ly/3acLymE" />
+          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://raw.githubusercontent.com/Drlazinho/email-marketing-FFX-3/master/marketing-ffx-6/logofooter.png" />
+        </mj-social>
+        <mj-text align="center" padding="0px 20px">
+          <p style="color:#ffffff; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
+    </mj-section>
+  </mj-body>
+</mjml>
